@@ -1,13 +1,3 @@
 {
     "stageBase": "https://staging.dashboard.flyreel.co/",
-    "emailSuperAdmin": "flyreel.qa@lexisnexisrisk.com",
-    "emailSysAdmin": "flyreel.qa+sysadmin@lexisnexisrisk.com",
-    "emailHIL": "flyreel.qa+hil@lexisnexisrisk.com",
-    "emailInspection": "flyreel.qa+inspection@lexisnexisrisk.com",
-    "password": "Testing123!",
-    "automationOrganizationId": "65490a6e2e39efd4dbc8a3a3",
-    "otherOrganizationId": "65564daa6e78359bbb1df6a3",
-    "automationBotId": "65675a9ad5af8e35e6f19393",
-    "otherBotId": "65564dab6e78359bbb1df78c",
-    "orgName": "Automation Testing Org"
 }
