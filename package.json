@@ -1,0 +1,23 @@
+{
+  "name": "playwright-mocha-flyreel",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "browserstack": "npx browserstack-node-sdk playwright test --config=./playwright.config.ts"
+  },
+  "keywords": [],
+  "author": "Ali Whisler",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.8.10"
+  },
+  "dependencies": {
+    "backstopjs": "^6.2.2",
+    "browserstack-node-sdk": "^1.31.6",
+    "csv-string": "^4.1.1",
+    "date-fns": "^2.30.0",
+    "fs": "^0.0.1-security",
+    "fs.promises": "^0.1.2",
+    "lodash": "^4.17.21"
+  }
+}
